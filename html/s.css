@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* Set the background image */
+    background-image: url('your-image-url.jpg');
+    /* Adjust background image settings */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+}
+
+.c {
+
+    padding: 20px;
+    color: #fff;
+}
